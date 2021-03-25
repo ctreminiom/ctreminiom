@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Carlos </h1>
 
 
-### Hi, my name is Carlos Treminio and I am a software engineer.
+### Hi, my name is Carlos Treminio and I am a software engineer from Costa Rica
 
 - 🔭 I’m currently working at **Equifax** as an Automation Engineer.
 - 🌱 I’m in the learning path of becoming **SRE Engineer**
