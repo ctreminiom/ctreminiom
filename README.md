@@ -3,7 +3,7 @@
 
 ### Hi, my name is Carlos Treminio and I am a software engineer from Costa Rica
 
-- 🔭 I’m currently working at **Equifax** as an Automation Engineer.
+- 🔭 I’m currently working at **Imprivata** as Senior DevOps Engineer.
 - 🌱 I’m in the learning path of becoming **SRE Engineer**
 - 💬 You can ask me about **Go, Jira, Confluence, Docker, SQL, Python and Linux**
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/ctreminio/)
